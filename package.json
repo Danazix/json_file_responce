@@ -1,0 +1,63 @@
+{
+  "location": {
+    "poi": "",
+    "addressDetails": null,
+    "streetNumber": "5",
+    "address": null,
+    "city": "?????????? ?????????",
+    "postcode": "",
+    "region": null,
+    "state": null,
+    "country": "UA",
+    "latitude": 49.99641,
+    "longitude": 36.24426600000004,
+    "addressLabel": ", , 5, , ?????????? ?????????, , , , "
+  },
+  "customer": {
+    "firstName": "test",
+    "lastName": "test",
+    "phoneNumber": "+44543534534",
+    "email": null,
+    "agreeMarketingUsage": true,
+    "agreeTC": true
+  },
+  "vehicle": null,
+  "towingDetails": {
+    "destination": null,
+    "towToNearestGarage": false,
+    "noPassengers": null,
+    "transportationNotRequired": false,
+    "towRequired": false
+  },
+  "fault": {
+    "problemTypeCode": "BAT",
+    "problemTypeLabel": "Battery",
+    "faultCode": "FBAT001",
+    "faultLabel": "First time today that vehicle didn't start",
+    "locationTypeCode": "LOCTY001",
+    "locationTypeLabel": "Street"
+  },
+  "status": null,
+  "statusId": 20,
+  "statusCode": "NEW",
+  "notes": null,
+  "jobPendingApproval": null,
+  "requestedService": {
+    "serviceCode": "BAT001",
+    "serviceLabel": "Battery",
+    "description": null,
+    "price": 0,
+    "driverId": null
+  },
+  "additionalServices": null,
+  "price": {
+    "total": 99,
+    "currency": {
+      "id": "UAH",
+      "currencySymbol": "",
+      "currencyName": "Hryvnia",
+      "currencyLongSymbol": "UAH"
+    }
+  },
+  "uuid": "43283c10-b291-416f-9eb9-51eef1bc72e8"
+}
